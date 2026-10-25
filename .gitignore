@@ -17,3 +17,4 @@
 *.nam
 
 __pycache__/
+/build-linux/
